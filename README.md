@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sandeep Kumar
+# 👋 Hey, I'm Ande Sandeep Kumar
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Enthusiast;Python+%7C+Linux+%7C+SQL;Data+%26+Automation+Explorer;Always+Learning.+Always+Building." alt="Typing SVG" />
