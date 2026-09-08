@@ -1,4 +1,4 @@
-# Hi, I'm ANDE SANDEEP KUMAR
+ Hi, I'm ANDE SANDEEP KUMAR
 🎓 Python Developer | Data Engineering & Software Development | B.Tech Electrical & Electronics Engineering (CGPA 8.64)
 
 <style>
@@ -186,7 +186,7 @@ li:hover {
 ## GitHub Stats
 
 <p align="center">
-  <img id="top-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep_ande23&show_icons=true&theme=radical&count_private=true&layout=compact" alt="Top Languages" />
+  <img id="top-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-ande23&show_icons=true&theme=radical&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -199,7 +199,7 @@ li:hover {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ande-sandeep-Kumar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepkumarande45@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeep_ande23)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeep-ande23)
 
 ---
 
