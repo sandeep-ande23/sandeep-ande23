@@ -354,6 +354,7 @@ Responsive travel expense tracking web application featuring:
 🔄 ETL
 📈 Analytics
 🤖 Machine Learning
+   LLM, RAG, VECTOR_DB, EMBEDDINGD......
 
 </td>
 
